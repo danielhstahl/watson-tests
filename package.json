@@ -1,0 +1,26 @@
+{
+  "name": "nodesdk",
+  "version": "1.0.0",
+  "description": "test for watson",
+  "main": "index.js",
+  "jest": {
+    "rootDir": "src"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillyfan1138/array-utils.git"
+  },
+  "author": "Daniel Stahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillyfan1138/array-utils/issues"
+  },
+  "homepage": "https://github.com/phillyfan1138/array-utils#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^2.32.1"
+  },
+  "devDependencies": {}
+}

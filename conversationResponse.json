@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "hello",
+      "confidence": 0.8502215147018433
+    }
+  ],
+  "entities": [],
+  "input": {
+    "text": "What is Up?"
+  },
+  "output": {
+    "text": [
+      "Welcome!"
+    ],
+    "nodes_visited": [
+      "Welcome"
+    ],
+    "log_messages": []
+  },
+  "context": {
+    "conversation_id": "c60d980e-0498-474f-a21a-e2f0939857fe",
+    "system": {
+      "dialog_stack": [
+        {
+          "dialog_node": "root"
+        }
+      ],
+      "dialog_turn_counter": 1,
+      "dialog_request_counter": 1,
+      "_node_output_map": {
+        "Welcome": [
+          0
+        ]
+      },
+      "branch_exited": true,
+      "branch_exited_reason": "completed"
+    }
+  }
+}

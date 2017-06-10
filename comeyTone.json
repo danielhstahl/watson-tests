@@ -1,0 +1,3276 @@
+{
+  "document_tone": {
+    "tone_categories": [
+      {
+        "tones": [
+          {
+            "score": 0.159431,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.129111,
+            "tone_id": "disgust",
+            "tone_name": "Disgust"
+          },
+          {
+            "score": 0.090348,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.55451,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.575045,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ],
+        "category_id": "emotion_tone",
+        "category_name": "Emotion Tone"
+      },
+      {
+        "tones": [
+          {
+            "score": 0.737492,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.189197,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ],
+        "category_id": "language_tone",
+        "category_name": "Language Tone"
+      },
+      {
+        "tones": [
+          {
+            "score": 0.824295,
+            "tone_id": "openness_big5",
+            "tone_name": "Openness"
+          },
+          {
+            "score": 0.970505,
+            "tone_id": "conscientiousness_big5",
+            "tone_name": "Conscientiousness"
+          },
+          {
+            "score": 0.729658,
+            "tone_id": "extraversion_big5",
+            "tone_name": "Extraversion"
+          },
+          {
+            "score": 0.97538,
+            "tone_id": "agreeableness_big5",
+            "tone_name": "Agreeableness"
+          },
+          {
+            "score": 0.845614,
+            "tone_id": "emotional_range_big5",
+            "tone_name": "Emotional Range"
+          }
+        ],
+        "category_id": "social_tone",
+        "category_name": "Social Tone"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "Thank you, Mr. Chairman.",
+      "input_from": 0,
+      "input_to": 24,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.035654,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.005381,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.0175,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.341035,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.013926,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.170108,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.29871,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.579725,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.633576,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.49605,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "Ranking Member Warner, members of the committee, thank you for inviting me here to testify today.",
+      "input_from": 25,
+      "input_to": 122,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.040345,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.04144,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.07607,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.27661,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.189318,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.116314,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.422119,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.615333,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.975813,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.827927,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.975543,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.930104,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "I’ve submitted my statement for the record and I’m not going to repeat it here this morning.",
+      "input_from": 123,
+      "input_to": 215,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.135245,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.04601,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.075772,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.037466,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.549994,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.482451,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.211282,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.988001,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.034706,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.645722,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.67104,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "I thought I would just offer some very brief introductory remarks and then I would welcome your questions.",
+      "input_from": 216,
+      "input_to": 322,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.119701,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.177925,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.058171,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.03428,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.05585,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.928991,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.775166,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.945019,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.832916,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.735178,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.999448,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.589476,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "When I was appointed FBI director in 2013, I understood that I served at the pleasure of the president.",
+      "input_from": 323,
+      "input_to": 426,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.183298,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.302976,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.013214,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.050598,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.026941,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.43808,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.939086,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.760061,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.792193,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.891553,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.833243,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Even though I was appointed to a 10 year term, which Congress created in order to underscore the importance of the FBI being outside of politics and independent, I understood that I could be fired by a president for any reason, or for no reason at all.",
+      "input_from": 427,
+      "input_to": 679,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.273876,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.188573,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.024032,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.037799,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.458294,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.811077,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.446712,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.869704,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.782095,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.35526,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.31987,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.754052,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "And on May the 9th, when I learned that I had been fired, for that reason, I immediately came home as a private citizen.",
+      "input_from": 680,
+      "input_to": 800,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.450936,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.075092,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.274959,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.267616,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.067315,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.620279,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.401017,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.296262,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.972239,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.258564,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.87343,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.949464,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "But then, the explanations — the shifting explanations, confused me and increasingly concerned me.COMEY: They confused me because the president and I had had multiple conversations about my job, both before and after he took office.",
+      "input_from": 801,
+      "input_to": 1033,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.440889,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.073458,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.06901,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.011045,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.365912,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.677676,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.668095,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.800301,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.2182,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.640451,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.506167,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.038051,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "And he had repeatedly told me I was doing a great job and he hoped I would stay.",
+      "input_from": 1034,
+      "input_to": 1114,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.045262,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.010913,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.097993,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.438042,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.102922,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.5538,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.541389,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.481647,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.466527,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.978895,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.670382,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "And I had repeatedly assured him that I did intend to stay and serve out the remaining six years of my term.",
+      "input_from": 1115,
+      "input_to": 1223,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.248489,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.041837,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.046075,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.081654,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.040441,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.435371,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.579436,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.368478,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.932874,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.010796,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.466292,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.787596,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "He told me repeatedly that he had talked to lots of people about me, including our current attorney general, and had learned that I was doing a great job and that I was extremely well-liked by the FBI workforce.",
+      "input_from": 1224,
+      "input_to": 1435,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.266053,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.067265,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.089786,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.203334,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.145955,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.189727,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.139786,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.945252,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.927582,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.92263,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.995418,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.823313,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "So it confused me when I saw on television the president saying that he actually fired me because of the Russia investigation and learned, again, from the media that he was telling, privately, other parties that my firing had relieved great pressure on the Russia investigation.",
+      "input_from": 1436,
+      "input_to": 1714,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.344071,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.048208,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.209906,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.075427,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.412962,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.593611,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.861701,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.799612,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.94805,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.820015,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.782443,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "I was also confused by the initial explanation that was offered publicly, that I was fired because of the decisions I had made during the election year.",
+      "input_from": 1715,
+      "input_to": 1867,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.367018,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.207192,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.079434,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.014844,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.451411,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.874319,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.360131,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.913344,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.441955,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.234697,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.751022,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.841582,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "That didn’t make sense to me for a whole bunch of reasons, including the time and all the water that had gone under the bridge since those hard decisions that had to be made.",
+      "input_from": 1868,
+      "input_to": 2042,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.385639,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.130462,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.293015,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.165494,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.225089,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.541591,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.641977,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.711453,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.9517,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.211839,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.531698,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.928819,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "That didn’t make any sense to me.",
+      "input_from": 2043,
+      "input_to": 2076,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.332202,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.011446,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.111615,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.122042,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.055405,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.91961,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.302273,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.296454,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.499336,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.682868,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.512813,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "And although the law required no reason at all to fire an FBI director, the administration then chose to defame me and, more importantly, the FBI by saying that the organization was in disarray, that it was poorly led, that the workforce had lost confidence in its leader.",
+      "input_from": 2077,
+      "input_to": 2349,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.150819,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.20398,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.094231,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.01232,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.695708,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.861103,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.643177,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.919275,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.935024,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.951189,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.761047,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.910585,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "Those were lies, plain and simple, and I am so sorry that the FBI workforce had to hear them and I’m so sorry that the American people were told them.",
+      "input_from": 2350,
+      "input_to": 2500,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.173563,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.364386,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.200505,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.001881,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.363452,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.345704,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.807167,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.953505,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.859705,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.992673,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.763835,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "I worked every day at the FBI to help make that great organization better.",
+      "input_from": 2501,
+      "input_to": 2575,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.037488,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.016396,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.037728,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.686872,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.169575,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.751512,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.13901,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.964272,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.827552,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.988418,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.981455,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "And I say “help” because I did nothing alone at the FBI.",
+      "input_from": 2576,
+      "input_to": 2632,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.1328,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.054954,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.061393,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.024263,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.71567,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.620279,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.343065,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.477006,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.017189,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.942178,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.253396,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "There are no indispensable people at the FBI.",
+      "input_from": 2633,
+      "input_to": 2678,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.341177,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.512026,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.07187,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.010762,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.208016,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.711976,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.512161,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.850411,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.411059,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.735731,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "The organization’s great strength is that its values and abilities run deep and wide.",
+      "input_from": 2679,
+      "input_to": 2764,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.023051,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.006377,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.20816,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.52264,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.099797,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.901359,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.642474,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.793472,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.364348,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.822839,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "The FBI will be fine without me.",
+      "input_from": 2765,
+      "input_to": 2797,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.194949,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.240688,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.118681,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.036818,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.286197,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.949376,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.77888,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.852123,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.883816,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.651083,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 22,
+      "text": "The FBI’s mission will be relentlessly pursued by its people, and that mission is to protect the American people and uphold the Constitution of the United States.COMEY: I will deeply miss being part of that mission, but this organization and its mission will go on long beyond me and long beyond any particular administration.",
+      "input_from": 2798,
+      "input_to": 3124,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.028933,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.487841,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.020366,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.0504,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.475287,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.139175,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.061474,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.865107,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.980822,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.677245,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.695788,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.597084,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "I have a message before I close for the — my former colleagues at the FBI.",
+      "input_from": 3125,
+      "input_to": 3199,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.162438,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.088524,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.072202,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.003663,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.346425,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.442184,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.944254,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.709613,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.887147,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.935944,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "But first, I want the American people to know this truth: The FBI is honest.",
+      "input_from": 3200,
+      "input_to": 3276,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.065716,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.260652,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.069235,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.101825,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.592684,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.532616,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.449032,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.952729,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.931461,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.210533,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.580457,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.820966,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "The FBI is strong.",
+      "input_from": 3277,
+      "input_to": 3295,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.053183,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.249049,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.046324,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.291114,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.278122,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.749431,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.315147,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.66419,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.60243,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.6145,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "And the FBI is, and always will be, independent.",
+      "input_from": 3296,
+      "input_to": 3344,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.1781,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.214779,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.058382,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.153135,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.404371,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.724236,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.874372,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.957121,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.671686,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.809402,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.730763,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.575352,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "And now to my former colleagues, if I may.",
+      "input_from": 3345,
+      "input_to": 3387,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.112676,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.0423,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.07032,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.016367,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.102063,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.724236,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.856622,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.445451,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.826672,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.676516,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.977964,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.634872,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "text": "I am so sorry that I didn’t get the chance to say goodbye to you properly.",
+      "input_from": 3388,
+      "input_to": 3462,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.033988,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.016917,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.204472,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.003619,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.682865,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0.615352,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.001067,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.169299,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.004745,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.870113,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.350461,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "It was the honor of my life to serve beside you, to be part of the FBI family.",
+      "input_from": 3463,
+      "input_to": 3541,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.020068,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.248231,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.013028,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.509354,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.166533,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.094752,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.778454,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.971288,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.598771,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.886773,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.963872,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "And I will miss it for the rest of my life.",
+      "input_from": 3542,
+      "input_to": 3585,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.053504,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.018878,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.185062,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.014919,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.852676,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.065036,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.369054,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.936576,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.081702,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.812561,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.451357,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "Thank you for standing watch.",
+      "input_from": 3586,
+      "input_to": 3615,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.035275,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.024383,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.005701,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.914031,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.008471,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.417844,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.27797,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.47583,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.737442,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.851775,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.755227,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "Thank you for doing so much good for this country.",
+      "input_from": 3616,
+      "input_to": 3666,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.031121,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.002495,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.019003,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.830755,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.018327,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.073412,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.727966,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.918721,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.900273,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.816298,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "text": "Do that good as long as ever you can.",
+      "input_from": 3667,
+      "input_to": 3704,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.048172,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.03,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.037302,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.675826,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.113117,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.974578,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0.751512,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.092575,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.56225,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.685334,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.765403,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.773829,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "And, Senators, I look forward to your questions.",
+      "input_from": 3705,
+      "input_to": 3753,
+      "tone_categories": [
+        {
+          "tones": [
+            {
+              "score": 0.03437,
+              "tone_id": "anger",
+              "tone_name": "Anger"
+            },
+            {
+              "score": 0.007864,
+              "tone_id": "disgust",
+              "tone_name": "Disgust"
+            },
+            {
+              "score": 0.031665,
+              "tone_id": "fear",
+              "tone_name": "Fear"
+            },
+            {
+              "score": 0.443191,
+              "tone_id": "joy",
+              "tone_name": "Joy"
+            },
+            {
+              "score": 0.121191,
+              "tone_id": "sadness",
+              "tone_name": "Sadness"
+            }
+          ],
+          "category_id": "emotion_tone",
+          "category_name": "Emotion Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.920855,
+              "tone_id": "analytical",
+              "tone_name": "Analytical"
+            },
+            {
+              "score": 0,
+              "tone_id": "confident",
+              "tone_name": "Confident"
+            },
+            {
+              "score": 0,
+              "tone_id": "tentative",
+              "tone_name": "Tentative"
+            }
+          ],
+          "category_id": "language_tone",
+          "category_name": "Language Tone"
+        },
+        {
+          "tones": [
+            {
+              "score": 0.295549,
+              "tone_id": "openness_big5",
+              "tone_name": "Openness"
+            },
+            {
+              "score": 0.497795,
+              "tone_id": "conscientiousness_big5",
+              "tone_name": "Conscientiousness"
+            },
+            {
+              "score": 0.902605,
+              "tone_id": "extraversion_big5",
+              "tone_name": "Extraversion"
+            },
+            {
+              "score": 0.772145,
+              "tone_id": "agreeableness_big5",
+              "tone_name": "Agreeableness"
+            },
+            {
+              "score": 0.56442,
+              "tone_id": "emotional_range_big5",
+              "tone_name": "Emotional Range"
+            }
+          ],
+          "category_id": "social_tone",
+          "category_name": "Social Tone"
+        }
+      ]
+    }
+  ]
+}

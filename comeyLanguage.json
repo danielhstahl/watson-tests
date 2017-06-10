@@ -1,0 +1,253 @@
+{
+  "sentiment": {
+    "document": {
+      "score": 0.132169,
+      "label": "positive"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "FBI",
+      "relevance": 0.926086
+    },
+    {
+      "text": "FBI director",
+      "relevance": 0.821704
+    },
+    {
+      "text": "FBI workforce",
+      "relevance": 0.810884
+    },
+    {
+      "text": "American people",
+      "relevance": 0.771378
+    },
+    {
+      "text": "brief introductory remarks",
+      "relevance": 0.681475
+    },
+    {
+      "text": "FBI’s mission",
+      "relevance": 0.668995
+    },
+    {
+      "text": "FBI family",
+      "relevance": 0.66489
+    },
+    {
+      "text": "great job",
+      "relevance": 0.657486
+    },
+    {
+      "text": "current attorney general",
+      "relevance": 0.656974
+    },
+    {
+      "text": "Russia investigation",
+      "relevance": 0.644135
+    },
+    {
+      "text": "Mr. Chairman",
+      "relevance": 0.56606
+    },
+    {
+      "text": "Member Warner",
+      "relevance": 0.556652
+    },
+    {
+      "text": "private citizen",
+      "relevance": 0.549298
+    },
+    {
+      "text": "multiple conversations",
+      "relevance": 0.544946
+    },
+    {
+      "text": "reason",
+      "relevance": 0.541425
+    },
+    {
+      "text": "initial explanation",
+      "relevance": 0.539771
+    },
+    {
+      "text": "indispensable people",
+      "relevance": 0.53428
+    },
+    {
+      "text": "hard decisions",
+      "relevance": 0.532378
+    },
+    {
+      "text": "great pressure",
+      "relevance": 0.532319
+    },
+    {
+      "text": "president",
+      "relevance": 0.532282
+    },
+    {
+      "text": "United States.COMEY",
+      "relevance": 0.53088
+    },
+    {
+      "text": "particular administration",
+      "relevance": 0.524399
+    },
+    {
+      "text": "great strength",
+      "relevance": 0.522728
+    },
+    {
+      "text": "great organization",
+      "relevance": 0.522199
+    },
+    {
+      "text": "term",
+      "relevance": 0.462065
+    },
+    {
+      "text": "colleagues",
+      "relevance": 0.461947
+    },
+    {
+      "text": "questions",
+      "relevance": 0.460343
+    },
+    {
+      "text": "sense",
+      "relevance": 0.45275
+    },
+    {
+      "text": "explanations",
+      "relevance": 0.451734
+    },
+    {
+      "text": "life",
+      "relevance": 0.44768
+    },
+    {
+      "text": "disarray",
+      "relevance": 0.432424
+    },
+    {
+      "text": "statement",
+      "relevance": 0.431707
+    },
+    {
+      "text": "record",
+      "relevance": 0.431694
+    },
+    {
+      "text": "members",
+      "relevance": 0.430885
+    },
+    {
+      "text": "committee",
+      "relevance": 0.430872
+    },
+    {
+      "text": "politics",
+      "relevance": 0.428605
+    },
+    {
+      "text": "morning",
+      "relevance": 0.428116
+    },
+    {
+      "text": "office",
+      "relevance": 0.428077
+    },
+    {
+      "text": "goodbye",
+      "relevance": 0.427638
+    },
+    {
+      "text": "firing",
+      "relevance": 0.427565
+    },
+    {
+      "text": "Senators",
+      "relevance": 0.427475
+    },
+    {
+      "text": "television",
+      "relevance": 0.427384
+    },
+    {
+      "text": "media",
+      "relevance": 0.427302
+    },
+    {
+      "text": "parties",
+      "relevance": 0.427267
+    },
+    {
+      "text": "bunch",
+      "relevance": 0.427194
+    },
+    {
+      "text": "time",
+      "relevance": 0.426882
+    },
+    {
+      "text": "water",
+      "relevance": 0.426867
+    },
+    {
+      "text": "bridge",
+      "relevance": 0.426844
+    },
+    {
+      "text": "country",
+      "relevance": 0.426649
+    },
+    {
+      "text": "law",
+      "relevance": 0.426596
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Federal Bureau of Investigation",
+      "relevance": 0.914349,
+      "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+    },
+    {
+      "text": "J. Edgar Hoover",
+      "relevance": 0.892842,
+      "dbpedia_resource": "http://dbpedia.org/resource/J._Edgar_Hoover"
+    },
+    {
+      "text": "President",
+      "relevance": 0.834711,
+      "dbpedia_resource": "http://dbpedia.org/resource/President"
+    },
+    {
+      "text": "Robert Mueller",
+      "relevance": 0.757415,
+      "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+    },
+    {
+      "text": "Law enforcement agency",
+      "relevance": 0.650023,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law_enforcement_agency"
+    },
+    {
+      "text": "United States",
+      "relevance": 0.626688,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.59565,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "United States Secret Service",
+      "relevance": 0.590516,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Secret_Service"
+    }
+  ]
+}
