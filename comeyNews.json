@@ -1,0 +1,32 @@
+{
+  "matching_results": 18512200,
+  "aggregations": [
+    {
+      "type": "filter",
+      "match": "keywords.text:\"Comey\"",
+      "matching_results": 250124,
+      "aggregations": [
+        {
+          "type": "term",
+          "field": "docSentiment.type",
+          "count": 3,
+          "results": [
+            {
+              "key": "negative",
+              "matching_results": 176597
+            },
+            {
+              "key": "positive",
+              "matching_results": 62223
+            },
+            {
+              "key": "neutral",
+              "matching_results": 10664
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "results": []
+}

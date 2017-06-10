@@ -3,15 +3,11 @@ const PersonalityInsightsV3 = require('watson-developer-cloud/personality-insigh
 const NaturalLanguageUnderstandingV1 = require('watson-developer-cloud/natural-language-understanding/v1')
 const ToneAnalyzerV3 = require('watson-developer-cloud/tone-analyzer/v3')
 const DocumentConversionV1 = require('watson-developer-cloud/document-conversion/v1')
+const DiscoveryV1 = require('watson-developer-cloud/discovery/v1')
 const credentials=require('./credentials.json')
 const fs=require('fs')
 const getObjFromCredentials=(credentials, key)=>{
-    const {username, password, workspace_id}=credentials[key]
-    return {
-        username,
-        password,
-        workspace_id
-    }
+    return credentials[key]
 }
 
 const conversation = new ConversationV1(Object.assign({}, 
@@ -34,7 +30,13 @@ const docConversion = new DocumentConversionV1(Object.assign({},
     getObjFromCredentials(credentials, "docConversion"),
     {version_date: '2015-12-01'}
 ))
+const discovery = new DiscoveryV1(Object.assign({}, 
+    getObjFromCredentials(credentials, "discovery"),
+    {version_date: DiscoveryV1.VERSION_DATE_2017_04_27}
+))
 
+
+/**Conversation */
 conversation.message({
   input: { text: 'What is Up?' },
   workspace_id:getObjFromCredentials(credentials, "conversation").workspace_id
@@ -43,6 +45,7 @@ conversation.message({
      //console.log(response.intents)
      fs.writeFile('./conversationResponse.json', JSON.stringify(response, null, 2), (err)=>err?console.log(err):null)
 });
+/**Doc Conversion*/
 docConversion.convert({
     file:fs.createReadStream('ex7.pdf'),
     // (JSON) ANSWER_UNITS, NORMALIZED_HTML, or NORMALIZED_TEXT
@@ -54,6 +57,18 @@ docConversion.convert({
     else
     fs.writeFile('./ex7.json', JSON.stringify(response, null, 2), (err)=>err?console.log(err):null)
 })
+
+/**Discovery */
+const query={aggregation:'filter(keywords.text:"Comey").term(docSentiment.type,count:3)', query:"", count:0}
+discovery.query(Object.assign({}, getObjFromCredentials(credentials, "discovery"), query), (err, response)=>{
+    if (err) {
+        console.error(err);
+    } else {
+        fs.writeFile('./comeyNews.json', JSON.stringify(response, null, 2), (err)=>err?console.log(err):null)
+    }
+});
+
+/**Comey work */
 fs.readFile('./comey.txt', (err, data)=>{
     const text=data.toString()
     personality.profile({

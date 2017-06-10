@@ -1,6 +1,6 @@
 {
   "source_document_id": "",
-  "timestamp": "2017-06-10T16:36:07.067Z",
+  "timestamp": "2017-06-10T18:37:52.458Z",
   "media_type_detected": "application/pdf",
   "metadata": [
     {
@@ -18,7 +18,7 @@
   ],
   "answer_units": [
     {
-      "id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "type": "h2",
       "parent_id": "",
       "title": "Programming Exercise 7: K-means Clustering and Principal Component Analysis",
@@ -31,9 +31,9 @@
       ]
     },
     {
-      "id": "9098bee5-e7a8-449b-bfa5-e8b4d83110bc",
+      "id": "89781df3-99f9-4463-9ee7-0a226ad9283c",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "Machine Learning Introduction",
       "direction": "ltr",
       "content": [
@@ -44,9 +44,9 @@
       ]
     },
     {
-      "id": "a6cc86c0-e707-49b0-97aa-89818e7d865d",
+      "id": "68c4f49b-4f61-4291-92c7-00c2d253f9df",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "Files included in this exercise",
       "direction": "ltr",
       "content": [
@@ -57,9 +57,9 @@
       ]
     },
     {
-      "id": "cf6273d8-d5df-4f17-a025-998a3badb381",
+      "id": "79ee597b-7195-498b-96c2-9d65560f7679",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "Where to get help",
       "direction": "ltr",
       "content": [
@@ -70,9 +70,9 @@
       ]
     },
     {
-      "id": "10ff4095-05e1-4b7b-85bf-d423825462fb",
+      "id": "5bc47291-f8a4-465f-bc2d-9f3779b046eb",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "1 K-means Clustering",
       "direction": "ltr",
       "content": [
@@ -83,9 +83,9 @@
       ]
     },
     {
-      "id": "f4ecb1f0-2343-4c60-8993-7bf71a0d97f2",
+      "id": "2decc6e6-f067-4c1e-9983-bd1a5c5af528",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "1.1 Implementing K-means",
       "direction": "ltr",
       "content": [
@@ -96,9 +96,9 @@
       ]
     },
     {
-      "id": "c200d855-f910-4324-b367-7ea9802fcad4",
+      "id": "3d2a1805-0cb2-4d7a-8cf0-c35da7db60b0",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "1.2 K-means on example dataset",
       "direction": "ltr",
       "content": [
@@ -109,9 +109,9 @@
       ]
     },
     {
-      "id": "44c39309-3be8-4825-8229-31c2f23eb214",
+      "id": "1b50f11f-fe3e-455e-be38-0c317450dc22",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "1.3 Random initialization",
       "direction": "ltr",
       "content": [
@@ -122,9 +122,9 @@
       ]
     },
     {
-      "id": "415585e8-73f3-4f47-937b-1e9b9306bc7a",
+      "id": "991458b8-173d-4797-935f-f4ea9fdd321a",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "1.4 Image compression with K-means",
       "direction": "ltr",
       "content": [
@@ -135,9 +135,9 @@
       ]
     },
     {
-      "id": "66b4cd04-45a5-47c2-ace8-16342fe5860b",
+      "id": "9c4e8043-4bea-4897-a33a-e48a3a90890a",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "1.5 Optional (ungraded) exercise: Use your own image",
       "direction": "ltr",
       "content": [
@@ -148,9 +148,9 @@
       ]
     },
     {
-      "id": "d0ce4d3c-eb4e-4bb1-94e2-c3ea72dda41d",
+      "id": "2e229b2c-7f33-4753-b3fe-7afd0b115e52",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "2 Principal Component Analysis",
       "direction": "ltr",
       "content": [
@@ -161,9 +161,9 @@
       ]
     },
     {
-      "id": "32443006-da78-4bd1-b213-4c164a6af91a",
+      "id": "4cd6f6c6-335f-4a98-b138-128d132fdce5",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "2.1 Example Dataset",
       "direction": "ltr",
       "content": [
@@ -174,9 +174,9 @@
       ]
     },
     {
-      "id": "70a49cd3-f926-4705-ae64-29e349c704a2",
+      "id": "281b1257-8533-42c7-a1b7-2038971bd3bd",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "2.2 Implementing PCA",
       "direction": "ltr",
       "content": [
@@ -187,9 +187,9 @@
       ]
     },
     {
-      "id": "2c2bc6fd-33a3-4954-aa2f-30047f3e2ade",
+      "id": "a282ce0c-dd77-4dbc-8c34-2f166a1a366c",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "2.3 Dimensionality Reduction with PCA",
       "direction": "ltr",
       "content": [
@@ -200,9 +200,9 @@
       ]
     },
     {
-      "id": "1a582ca0-1ff2-4866-8e10-d92e051fe26f",
+      "id": "e03e69b8-15c7-4364-a288-b9d0cd016202",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "2.4 Face Image Dataset",
       "direction": "ltr",
       "content": [
@@ -213,9 +213,9 @@
       ]
     },
     {
-      "id": "d143bb47-c7b2-4fa9-bf34-74bc7828ec6c",
+      "id": "d28a74ab-91fa-471a-84a6-564328e5a5a9",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "2.5 Optional (ungraded) exercise: PCA for visualization",
       "direction": "ltr",
       "content": [
@@ -226,9 +226,9 @@
       ]
     },
     {
-      "id": "19ef7362-5c64-4fc6-9c4f-b9cf9eb24aed",
+      "id": "b71a120b-77c0-44b2-b48f-d1f357a262ba",
       "type": "h3",
-      "parent_id": "e1d74ad5-51cd-44ff-a23a-908d109699dd",
+      "parent_id": "e35f1d70-83c3-4b37-b13b-692a77b36373",
       "title": "Submission and Grading",
       "direction": "ltr",
       "content": [
